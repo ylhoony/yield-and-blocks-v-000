@@ -9,8 +9,11 @@ def hello_t(array)
     array
   else
     puts "Hey? No block was given!"
-
   end
+end
+
+def block_given?
+  
 end
 
 # call your method here!
