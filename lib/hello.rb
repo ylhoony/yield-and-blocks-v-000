@@ -1,6 +1,6 @@
 def hello_t(array)
   if array.length == 0
-    puts ""Hey! No block was given!"
+    puts "Hey! No block was given!"
   end
   i = 0
 
