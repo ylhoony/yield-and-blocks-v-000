@@ -6,4 +6,4 @@ end
 
 # call your method here!
 
-hello_t(names) { |name| puts "#{name.upcase}"}
+hello_t(names) { |name| puts "#{name.upcase}" }
