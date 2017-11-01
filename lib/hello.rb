@@ -1,7 +1,5 @@
-def hello_t(list)
- list.each do |e|
-   puts e
- end
+def hello_t
+
 end
 
 # call your method here!
